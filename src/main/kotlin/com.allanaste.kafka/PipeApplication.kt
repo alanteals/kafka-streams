@@ -4,7 +4,6 @@ import org.apache.kafka.streams.StreamsBuilder
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
-
 @SpringBootApplication
 class PipeApplication
 
